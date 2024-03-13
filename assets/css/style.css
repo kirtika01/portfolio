@@ -667,8 +667,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(69, 80, 91, 0.8);
-}
+  background: C:\Users\hp\Desktop\kirtika_portfolio\images\Black.jpg top center;};
 
 .portfolio .portfolio-wrap::before {
   content: "";
@@ -729,12 +728,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #45505b;
+  color: #000001;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #45505b;
+  color: #f6efef;
   font-size: 14px;
   text-transform: uppercase;
   padding: 0;
@@ -747,7 +746,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #45505b;
+  color: #f3eded;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
@@ -782,11 +781,11 @@ section {
 
 
 .swiper-slide .img1{
-  max-width: 43%;
+  max-width: 63%;
   margin-bottom: 163vh;
 }
 .swiper-slide .img2{
-  max-width: 43%;
+  max-width: 63%;
   margin-bottom: 163vh;
 }
 .swiper-slide .img5{
@@ -794,7 +793,7 @@ section {
   margin-bottom: 163vh;
 }
 .swiper-slide .img6{
-  max-width: 53%;
+  max-width: 63%;
   margin-bottom: 163vh;
 }
 /*--------------------------------------------------------------
@@ -830,7 +829,7 @@ section {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  box-shadow: 0px 0 30px rgba(69, 80, 91, 0.08);
+  box-shadow: 0px 0 30px rgba(237, 242, 244, 0.08);
 }
 
 .portfolio-details .portfolio-info h3 {
